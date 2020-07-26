@@ -19,5 +19,8 @@ color: navy;
 }
 
 h1 span{color: violet;}
-.gay {color: hotpink font-size: 30px;}
+.gay {
+ color: hotpink;
+ font-size: 30px;
+}
 
